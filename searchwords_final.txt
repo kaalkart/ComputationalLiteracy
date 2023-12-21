@@ -1,0 +1,2 @@
+*This is the final set of search words that I chose to check for co-occurrence with other words.
+'体', '姿', '身', '彼', '女', '男', '者', '方', '人', '髪', '形', '服', '隠', '装', '態', '影', '格', '袴', '袖', '性'
