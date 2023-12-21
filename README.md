@@ -1,4 +1,1 @@
-# ComputationalLiteracy
-
-
-this is a test commit
+This project analyses four novels of the Japanese author Tanizaki Jun'ichirō. Find the overview and work pipeline of the project in the PDF file called "Computational_literacy_methods".
